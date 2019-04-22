@@ -1,5 +1,6 @@
 # Introduction
-- Create a .md file (each member) and add it to README.md using the include tag.
+- Create a markdown file (each member) and add it to README.md using the include tag.
+- [Using jekyll and markdown to implement a website](https://csci3250-2019.github.io/project-team-j/)
 - Use Kanban Template for automation in Project Board.
 - Write a short C code.
 - Promote the page when everything is done. :)
